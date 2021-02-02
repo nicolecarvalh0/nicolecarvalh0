@@ -2,7 +2,10 @@
 
 <img src="https://github.com/nicolecarvalh0/nicolecarvalh0/blob/main/Imagens/%E2%80%94Pngtree%E2%80%94women%20with%20laptop%20working%20from_5348500.png" width="450" height="450" alt="woman with notebook" align="right">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolecarvalh0&layout=compact" align="left">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris elementum efficitur dui, et finibus lectus condimentum a. Duis euismod neque feugiat finibus lacinia. Suspendisse hendrerit eros at mi volutpat finibus. Suspendisse purus sem, placerat at faucibus eu, fringilla vel mauris. Duis auctor ante sed tortor dictum, eu malesuada erat pretium. 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolecarvalh0&layout=compact&langs_count=10" align="left">
+
 
 
 <!--
