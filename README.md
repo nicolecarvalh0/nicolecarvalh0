@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Sou estudante de Ciência da Computação
-
 <p align="right">
   <img src="https://github.com/nicolecarvalh0/nicolecarvalh0/blob/main/Imagens/%E2%80%94Pngtree%E2%80%94women%20with%20laptop%20working%20from_5348500.png" width="450" height="450" alt="woman with notebook">
 </p>
