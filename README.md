@@ -2,7 +2,7 @@
 
 <img src="https://github.com/nicolecarvalh0/nicolecarvalh0/blob/main/Imagens/%E2%80%94Pngtree%E2%80%94women%20with%20laptop%20working%20from_5348500.png" width="430" height="430" alt="woman with notebook" align="right">
 
-Padawan em Engenharia de Software, Dama apaixonada pela Ciência da Computação, e, assim como pontuou Ada Lovelace: 
+Uma Dama apaixonada pela Ciência da Computação, Padawan em Engenharia de Software e, assim como pontuou Ada Lovelace: 
 
 "Quanto mais estudo, mais sinto que minha mente nisso é insaciável". :computer: :sparkling_heart:
 
