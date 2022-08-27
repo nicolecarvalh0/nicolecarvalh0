@@ -10,7 +10,7 @@ Uma Dama apaixonada pela Ciência da Computação, Padawan em Engenharia de Soft
 Me encontre também no Linkedin: <a href="https://linkedin.com/in/nicolecarvalh0/" target="_blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin.com/in/nicolecarvalh0/" height="20" width="30" /></a> 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolecarvalh0&layout=compact&langs_count=10" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolecarvalh0&layout=compact&langs_count=100" align="left">
 
 
 <!--
